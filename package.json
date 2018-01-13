@@ -1,5 +1,5 @@
 {
-  "name": "dwsw-hello-world",
+  "name": "@dwsw/dwsw-hello-world",
   "version": "2.3.0",
   "description": "A hello world package of DWSW",
   "main": "hello-world.js",
