@@ -1,0 +1,23 @@
+{
+  "name": "dwsw-hello-world",
+  "version": "2.3.0",
+  "description": "A hello world package of DWSW",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webguru221/dwsw-hello-world.git"
+  },
+  "keywords": [
+    "dwsw",
+    "hello-world"
+  ],
+  "author": "Varun Handa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webguru221/dwsw-hello-world/issues"
+  },
+  "homepage": "https://github.com/webguru221/dwsw-hello-world#readme"
+}
